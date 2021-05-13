@@ -1,0 +1,23 @@
+{
+  "name": "find-github-repo",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/sheru007/find-github-repo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "repository",
+    "repos",
+    "search",
+    "find"
+  ],
+  "author": "Sheru Khan <jnvh1233sheru@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "minimist": "^1.2.5"
+  }
+}
