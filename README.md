@@ -1,3 +1,5 @@
+My first npm package that fetch all gtihub public repository of given username 
+
 # find-github-repo
 
 Get a list of Github repositories of specified username sorted by numbers of stars in descending order and last updated time
